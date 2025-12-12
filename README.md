@@ -12,3 +12,4 @@ nano .env (isi Token Bot, Live Channel, Qris Url, ID Buy Log Channel, dan Guild 
 ```
 node index.js
 ```
+ isi config.json
